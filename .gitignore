@@ -1,0 +1,30 @@
+# Ignore virtual environment directories
+venv/
+
+# Ignore compiled bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore other unnecessary files and directories
+.DS_Store
+*.log
+*.pot
+*.pyc
+*.py[cod]
+.Python
+env/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+staticfiles/
+static/
+.python-version
+.vscode/
+.idea/
+*.sql
+*.pg
+.env
